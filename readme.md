@@ -30,3 +30,5 @@ pip3 install praw
 4. Set the name you want your bot to watch for on line 8 (for example set u/yourbotname if you want users to call u/yourbotname)
 5. Enter the discord webhook url if you haven't already
 6. Enter the name you want your discord bot to display whe it posts the message in the channel. 
+
+After that is done, you just run it like a standard reddit bot ```python3 main.py``` or read the stickied post at the top of the subreddit for instructions on how to run on other operating systems.
